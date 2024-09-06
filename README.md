@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bany_dam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][https://www.linkedin.com/in/Wafa-abdullah-nurbani-adam-b150432b4/](https://www.linkedin.com/in/wafa-abdullah-nurbani-adam-a39283327/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bany_dam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Wafa-abdullah-nurbani-adam-a39283327/) 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Wafaabdullah4&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
